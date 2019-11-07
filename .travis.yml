@@ -17,4 +17,4 @@ deploy:
     secure: $HEROKU_API_KEY
   app: test-my-reply-message-project
   on:
-    repo: HsiehChin/SE_demo
+    repo: HsiehChin/SE_demo1
